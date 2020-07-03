@@ -1,0 +1,9 @@
+1. what's code
+2. what's markdown
+3. arraying
+4. NumPy properties
+5. reshapping
+6. concatenation
+7. splitting
+8. sorting
+9. accessing elements with index
