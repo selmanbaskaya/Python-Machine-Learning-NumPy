@@ -7,3 +7,10 @@
 7. splitting
 8. sorting
 9. accessing elements with index
+10. slicing
+11. operations in subsets
+12. fancy index
+13. slice & fancy
+14. conditional transactions
+15. mathematical operations
+16. ufunc
